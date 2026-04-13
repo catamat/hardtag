@@ -1,6 +1,5 @@
 # Hardtag
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/catamat/hardtag/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/catamat/hardtag.svg?branch=master)](https://travis-ci.org/catamat/hardtag)
 [![Go Report Card](https://goreportcard.com/badge/github.com/catamat/hardtag)](https://goreportcard.com/report/github.com/catamat/hardtag)
 [![Go Reference](https://pkg.go.dev/badge/github.com/catamat/hardtag.svg)](https://pkg.go.dev/github.com/catamat/hardtag)
 [![Version](https://img.shields.io/github/tag/catamat/hardtag.svg?color=blue&label=version)](https://github.com/catamat/hardtag/releases)
