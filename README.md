@@ -4,7 +4,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/catamat/hardtag.svg)](https://pkg.go.dev/github.com/catamat/hardtag)
 [![Version](https://img.shields.io/github/tag/catamat/hardtag.svg?color=blue&label=version)](https://github.com/catamat/hardtag/releases)
 
-Hardtag is a simple package that generates a deterministic SHA-256 hardware fingerprint of the machine it runs on. It works on Linux, Windows, and macOS with two identification strategies — **instance** and **hybrid** — that cover both privileged and unprivileged execution contexts.
+Hardtag is a package that generates a deterministic SHA-256 hardware fingerprint of the machine it runs on. It works on Linux, Windows, and macOS with two identification strategies — **instance** and **hybrid** — that cover both privileged and unprivileged execution contexts.
 
 ## Installation
 ```golang
