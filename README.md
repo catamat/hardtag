@@ -8,7 +8,7 @@ Hardtag is a package that generates a deterministic SHA-256 hardware fingerprint
 
 ## Installation
 ```golang
-go get github.com/catamat/hardtag@latest
+go install github.com/catamat/hardtag@latest
 ```
 
 ## Examples
